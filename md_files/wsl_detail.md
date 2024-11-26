@@ -26,7 +26,7 @@ WSL（Windows Subsystem for Linux）は、Windows上でLinux環境を実行す�
   - フル機能のLinuxカーネルを利用可能。
   - DockerやiptablesなどのLinuxネイティブツールを完全にサポート。
 - **制限**：
-  - WSL 1に比べて起動速度が若干遅い。
+  - WSL 1に比べて起動速度が（数値上は）若干遅い。
   - ファイルシステムのパフォーマンスが、Windowsとの連携時に低下する場合があります。
 
 ---
